@@ -12,23 +12,18 @@ A Python implementation of a **Perceptron classifier** for a two-class dataset w
 - Educational tool to understand linear classification.
 
 ## Installation
-1. Clone the repository:
-```bash
-git clone <your-repo-url>
+
 pip install numpy pandas matplotlib
-Usage
+## Usage
 python perceptron_demo.py
-Libraries Used
+## Libraries Used
 
 numpy
-
 pandas
-
 matplotlib
-
 random
 
-Example Output
+## Example Output
 
 Scatter plot of dataset
 
